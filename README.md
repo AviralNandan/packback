@@ -230,22 +230,6 @@ Planned stack: Node.js + Express + MongoDB Atlas + Razorpay + Socket.IO
 
 ---
 
-## 👨‍💻 Project Details
-
-| Field | Value |
-|-------|-------|
-| **Project Name** | Packback v2.0 |
-| **College** | Lakshmi Narain College of Technology, Bhopal |
-| **Department** | CSE-IoT |
-| **Session** | 2025-26 |
-| **Students** | Shriyanshi Soni (0103IS221194), Aviral Nandan (0103IS221054) |
-| **Guide** | Prof. Rahul Manjhi |
-| **University** | RGPV Bhopal |
-| **Framework** | React 18 + Vite 5 |
-| **Language** | JavaScript (ES2022) |
-
----
-
 ## 📄 License
 
 This project is submitted as a Major Project-II for Bachelor of Technology (CSE-IoT) at LNCT Bhopal under RGPV. All rights reserved by the authors.
